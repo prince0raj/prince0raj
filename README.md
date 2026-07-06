@@ -2,9 +2,9 @@
 <!-- ░░░░░░░░░░░░░ PRINCE RAJ • CYBER MAINFRAME ░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Cyberpunk Mainframe Header Video -->
+<!-- Cyberpunk Mainframe Header GIF -->
 <div align="center">
-  <video src="https://raw.githubusercontent.com/prince0raj/prince0raj/main/assets/header.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 8px; display: block;"></video>
+  <img src="https://raw.githubusercontent.com/prince0raj/prince0raj/main/assets/header.gif" width="100%" style="border-radius: 8px; display: block;" alt="Cyberpunk Mainframe Banner" />
 </div>
 
 <br/>
