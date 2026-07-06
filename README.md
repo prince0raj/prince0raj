@@ -2,9 +2,9 @@
 <!-- ░░░░░░░░░░░░░ PRINCE RAJ • CYBER MAINFRAME ░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Matrix Code Banner -->
+<!-- Cyberpunk Mainframe Header Video -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4MGJhOWM5ZDYwMzhhYjAzOWQzNmRjMDljOWM5MWM5MWM5MWM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 8px;" alt="Matrix Code Terminal Banner" />
+  <video src="https://raw.githubusercontent.com/prince0raj/prince0raj/main/assets/header.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 8px; display: block;"></video>
 </div>
 
 <br/>
@@ -164,7 +164,5 @@ prince0raj@cyber-mainframe:~$ neofetch
 ║             SESSION TERMINATED • CONNECTION SECURE            ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4MGJhOWM5ZDYwMzhhYjAzOWQzNmRjMDljOWM5MWM5MWM5MWM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="60" style="object-fit: cover; border-radius: 8px;" alt="Matrix Code Terminal Footer" />
 
 </div>
