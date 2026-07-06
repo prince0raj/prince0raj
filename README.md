@@ -4,7 +4,7 @@
 
 <!-- Matrix Code Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prince0raj/prince0raj/main/assets/hacker_banner.png" width="100%" alt="Matrix Code Terminal Banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4MGJhOWM5ZDYwMzhhYjAzOWQzNmRjMDljOWM5MWM5MWM5MWM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 8px;" alt="Matrix Code Terminal Banner" />
 </div>
 
 <br/>
@@ -165,8 +165,6 @@ prince0raj@cyber-mainframe:~$ neofetch
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<sub><b>prince0raj</b> · Systems Architect & Full-Stack Engineer · New Delhi, India</sub>
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:0d1a0f,100:00FF41&height=80&section=footer" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4MGJhOWM5ZDYwMzhhYjAzOWQzNmRjMDljOWM5MWM5MWM5MWM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="60" style="object-fit: cover; border-radius: 8px;" alt="Matrix Code Terminal Footer" />
 
 </div>
