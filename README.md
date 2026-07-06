@@ -12,27 +12,27 @@
 <!-- Neon Terminal Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=650&height=40&lines=%24+sudo+prince0raj+--init+system;%24+loading+microservices_core...+%5BOK%5D;%24+deploying+rag_pipeline...+%5BACCESS+GRANTED%5D;%24+status%3A+all+systems+operational+%E2%9C%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=059669&center=true&vCenter=true&repeat=true&width=650&height=40&lines=%24+sudo+prince0raj+--init+system;%24+loading+microservices_core...+%5BOK%5D;%24+deploying+rag_pipeline...+%5BACCESS+GRANTED%5D;%24+status%3A+all+systems+operational+%E2%9C%93" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- Contact Access Points -->
 <p align="center">
   <a href="mailto:princerajsde@gmail.com">
-    <img src="https://img.shields.io/badge/%20MAIL-princerajsde-0a0e17?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/%20MAIL-princerajsde-0a0e17?style=for-the-badge&logo=gmail&logoColor=059669&labelColor=0a0e17" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/prince00raj/">
-    <img src="https://img.shields.io/badge/%20LINKEDIN-Prince__Raj-0a0e17?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/%20LINKEDIN-Prince__Raj-0a0e17?style=for-the-badge&logo=linkedin&logoColor=059669&labelColor=0a0e17" />
   </a>&nbsp;
   <a href="https://prince00raj.netlify.app/">
-    <img src="https://img.shields.io/badge/%20PORTFOLIO-prince00raj-0a0e17?style=for-the-badge&logo=googlechrome&logoColor=00FF41&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/%20PORTFOLIO-prince00raj-0a0e17?style=for-the-badge&logo=googlechrome&logoColor=059669&labelColor=0a0e17" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=0a0e17" />&nbsp;
-  <img src="https://img.shields.io/badge/UPTIME-2%2B_YEARS-00FF41?style=flat-square&labelColor=0a0e17" />&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=prince0raj&style=flat-square&color=00FF41&label=SCANS&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-059669?style=flat-square&labelColor=0a0e17" />&nbsp;
+  <img src="https://img.shields.io/badge/UPTIME-2%2B_YEARS-059669?style=flat-square&labelColor=0a0e17" />&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=prince0raj&style=flat-square&color=059669&label=SCANS&labelColor=0a0e17" />
 </div>
 
 ---
@@ -135,13 +135,13 @@ prince0raj@cyber-mainframe:~$ neofetch
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=prince0raj&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41&count_private=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=prince0raj&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=prince0raj&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=prince0raj&show_icons=true&hide_border=true&bg_color=f8fafc&title_color=059669&icon_color=059669&text_color=0f172a&ring_color=059669&count_private=true&include_all_commits=true" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=prince0raj&show_icons=true&hide_border=true&bg_color=f8fafc&title_color=059669&icon_color=059669&text_color=0f172a&ring_color=059669&count_private=true&include_all_commits=true" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=prince0raj&layout=compact&hide_border=true&bg_color=0a0e17&title_color=00FF41&text_color=c9d1d9&langs_count=6&hide=c,c%2B%2B" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=prince0raj&layout=compact&hide_border=true&langs_count=6&hide=c,c%2B%2B" />
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=prince0raj&layout=compact&hide_border=true&bg_color=0a0e17&title_color=00FF41&text_color=c9d1d9&langs_count=6&hide=c,c%2B%2B" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=prince0raj&layout=compact&hide_border=true&bg_color=f8fafc&title_color=059669&text_color=0f172a&langs_count=6&hide=c,c%2B%2B" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=prince0raj&layout=compact&hide_border=true&bg_color=f8fafc&title_color=059669&text_color=0f172a&langs_count=6&hide=c,c%2B%2B" />
   </picture>
 </div>
 
@@ -150,8 +150,8 @@ prince0raj@cyber-mainframe:~$ neofetch
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=prince0raj&custom_title=%24%20git%20log%20--graph%20--oneline&hide_border=true&bg_color=0a0e17&color=c9d1d9&line=00FF41&point=00FF41&area=true&area_color=00FF41" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=prince0raj&custom_title=%24%20git%20log%20--graph%20--oneline&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince0raj&custom_title=%24%20git%20log%20--graph%20--oneline&hide_border=true&bg_color=0a0e17&color=c9d1d9&line=00FF41&point=00FF41&area=true&area_color=00FF41" width="98%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=prince0raj&custom_title=%24%20git%20log%20--graph%20--oneline&hide_border=true&bg_color=ffffff&color=27272a&line=059669&point=059669&area=true&area_color=ccfbf1" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince0raj&custom_title=%24%20git%20log%20--graph%20--oneline&hide_border=true&bg_color=ffffff&color=27272a&line=059669&point=059669&area=true&area_color=ccfbf1" width="98%" />
   </picture>
 </div>
 
